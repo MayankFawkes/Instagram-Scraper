@@ -1,8 +1,8 @@
 # Instagram-Scraper
-Have Fun :p
+Have Fun :p 
 
 # About
-* with username you can scpapr all images and video 
+* with username you can Scraper all images and videos 
 * Easy to use
 
 # Help
