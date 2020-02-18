@@ -14,7 +14,7 @@ root@internet:~#python3 Instagram.py
 # Update 1.1
 * Limit Option Added
 * Hashtag Scrape Added
-* More Colourful now
+* More Colours now
 
 # Notice
 This is just a sample project and i will be not responsible for any of your actions.
