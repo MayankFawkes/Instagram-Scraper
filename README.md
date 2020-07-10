@@ -2,7 +2,7 @@
 Have Fun :p 
 
 # About
-* with username you can Scraper all images and videos 
+* with username you can Scraper all images and videos (Only for public profiles)
 * Easy to use
 
 # Help
